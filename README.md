@@ -1,5 +1,6 @@
-# TwitchLib.UnityExamples
-Repository with examples on how to implement TwitchLib within Unity
+# TwitchLib.UnityExamples - WORK IN PROGRESS
+Repository with examples on how to implement TwitchLib within Unity.
+This project is a WIP and is still being updated.
 
 ## About
 A repository which contains a Unity project with a few example implementations and Unity Unit Tests.
